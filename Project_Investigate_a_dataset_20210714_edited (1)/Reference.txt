@@ -1,0 +1,10 @@
+web site:
+https://numpy.org/doc/stable/index.html
+https://pandas.pydata.org/docs/index.html
+https://matplotlib.org/stable/index.html
+https://github.com/matplotlib/matplotlib/issues/13803
+https://stackoverflow.com/questions/45057647/difference-between-axisequal-and-axisscaled-in-matplotlib
+https://stackoverflow.com/questions/55268098/python-valueerror-too-many-values-to-unpack-expected-2
+
+book:
+Python for Data Analysis, 2nd Edition by Wes McKinney

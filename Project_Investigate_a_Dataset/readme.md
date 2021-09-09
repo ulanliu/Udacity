@@ -1,12 +1,12 @@
 # Investigate the features that may affect showing up for their appointment
 
 ## Introduction
-The dataset I choose is Medical Appointment No Shows.(Original source on [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments)) 110.527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. I would focus on the features of people who show-up or no-show, and find the trend that will affect patient's decision.
+The dataset is Medical Appointment No Shows. ([Kaggle](https://www.kaggle.com/joniarroba/noshowappointments)) It contains 110,527 medical appointments and 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. I would focus on the features of people who show-up or no-show, and find the trend that will affect patient's decision.
 
 ## Conclusions
 To sum up, four features are selected to discuss and here are the result.
 
-> 1. SMS do not increase attendance rate, even decrease.
+> 1. SMS do not increase attendance rate, even decrease.  
 **Suggestion**: Adjust the content of sms or use a phone call instead of sms, and adjust sms sending time to the appointment day.  
 >
 >2. People whose scheduled day and appointment day are the same day have the highest attendance rate and the no-show rate seems to have a positive correlation with days between scheduled day and appointment day.   

@@ -1,4 +1,4 @@
-![Certificate of Udacity](https://confirm.udacity.com/LZYSJF4M "Data Analyst Nanodegree Certificate of Udacity")
+![alt text](https://confirm.udacity.com/LZYSJF4M "Logo Title Text")
 
 # About
 This repository contains project work for Udacity's Data Analyst Nanodegree
